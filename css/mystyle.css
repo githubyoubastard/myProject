@@ -1,0 +1,34 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form
+,fieldset,legend,textarea,p,blockquote,th,td,input,select,button{margin:0;padding:0}
+fieldset,img,button,input{border:0 none}
+dl,ul,ol,menu,li{list-style:none;}
+
+/*sub_Nav*/
+.sub_Nav{width: 100%;height: 110px;background-color: #141414; opacity: 0.9;}
+
+/*sub_Nav_티비*/
+.sub_Nav_tv{width:500px;height:110px;margin:0 auto;display:none;}
+.sub_Nav_tv ul{overflow:none;}
+.sub_Nav_tv ul li{float:left;margin:30px 10px 0; text-align:center}
+.sub_Nav_tv ul li a{color:#fff;}
+.sub_Nav_tv ul li a:hover{color:#0070c9;text-decoration:none;}
+.sub_Nav_tv ul li a i{display:block;width:100px;height: 38px;margin-top:15px;font-size:30px}
+.sub_Nav_tv ul li a span{display:block;font-size:11px;}
+
+/*sub_Nav_핸드폰*/
+.sub_Nav_cell{width:500px;height:110px;margin:0 auto;display:none}
+.sub_Nav_cell ul{overflow:none;}
+.sub_Nav_cell ul li{float:left;margin:30px 10px 0; text-align:center}
+.sub_Nav_cell ul li a{color:#fff;}
+.sub_Nav_cell ul li a:hover{color:#0070c9;text-decoration:none;}
+.sub_Nav_cell ul li a i{display:block;width:100px;height: 38px;margin-top:15px;font-size:30px;}
+.sub_Nav_cell ul li a span{display:block;font-size:11px;}
+
+/*sub_Nav_PC*/
+.sub_Nav_PC{width:500px;height:110px;margin:0 auto;display:none;}
+.sub_Nav_PC ul{overflow:none;}
+.sub_Nav_PC ul li{float:left;margin:30px 10px 0; text-align:center}
+.sub_Nav_PC ul li a{color:#fff;}
+.sub_Nav_PC ul li a:hover{color:#0070c9;text-decoration:none;}
+.sub_Nav_PC ul li a i{display:block;width:100px;height: 38px;margin-top:15px;font-size:30px;}
+.sub_Nav_PC ul li a span{display:block;font-size:11px;}
