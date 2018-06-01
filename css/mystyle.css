@@ -7,8 +7,11 @@ a:hover{text-decoration:none;}
 /*sub_Nav*/
 .sub_Nav{width: 100%;height: 110px;background-color: #141414; opacity: 0.9; margin-top:44px;}
 
+/*sub_Nav_control*/
+.sub_Nav_control{margin-left:37%}
+
 /*sub_Nav_핸드폰*/
-.sub_Nav_cell{width:400px;height:110px;margin:0 auto;}
+.sub_Nav_cell{width:400px;height:110px;background-color: #141414;}
 .sub_Nav_cell ul{overflow:none;}
 .sub_Nav_cell ul li{float:left; width:100px;text-align:center;margin-top:37px;}
 .sub_Nav_cell ul li a{color:#fff;}
@@ -17,7 +20,7 @@ a:hover{text-decoration:none;}
 .sub_Nav_cell ul li a span{display:block;font-size:11px; padding-top:5px;}
 
 /*sub_Nav_티비*/
-.sub_Nav_TV{width:400px;height:110px;margin:0 auto;}
+.sub_Nav_TV{width:400px;height:110px;background-color: #141414;display:none;}
 .sub_Nav_TV ul{overflow:none;}
 .sub_Nav_TV ul li{float:left; width:100px;text-align:center;margin-top:37px;}
 .sub_Nav_TV ul li a{color:#fff;}
@@ -26,7 +29,7 @@ a:hover{text-decoration:none;}
 .sub_Nav_TV ul li a span{display:block;font-size:11px;padding-top:5px;}
 
 /*sub_Nav_Appliance*/
-.sub_Nav_Appliance{width:400px;height:110px;margin:0 auto;}
+.sub_Nav_Appliance{width:400px;height:110px;background-color: #141414;display:none;}
 .sub_Nav_Appliance ul{overflow:none;}
 .sub_Nav_Appliance ul li{float:left; width:100px;text-align:center;margin-top:37px;}
 .sub_Nav_Appliance ul li a{color:#fff;}
@@ -38,7 +41,7 @@ a:hover{text-decoration:none;}
 .sub_Nav_Appliance .adjustSize span{padding:0;}
 
 /*sub_Nav_IT*/
-.sub_Nav_IT{width:400px;height:110px;margin:0 auto;}
+.sub_Nav_IT{width:400px;height:110px;background-color: #141414;display:none;}
 .sub_Nav_IT ul{overflow:none;}
 .sub_Nav_IT ul li{float:left; width:100px;text-align:center;margin-top:37px;}
 .sub_Nav_IT ul li a{color:#fff;}
@@ -47,7 +50,7 @@ a:hover{text-decoration:none;}
 .sub_Nav_IT ul li a span{display:block;font-size:11px;padding-top:5px;}
 
 /*sub_Nav_Sound*/
-.sub_Nav_Sound{width:400px;height:110px;margin:0 auto;}
+.sub_Nav_Sound{width:400px;height:110px;background-color: #141414;display:none;}
 .sub_Nav_Sound ul{overflow:none;}
 .sub_Nav_Sound ul li{float:left; width:100px;text-align:center;margin-top:37px;}
 .sub_Nav_Sound ul li a{color:#fff;}
